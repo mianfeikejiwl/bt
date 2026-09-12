@@ -70,7 +70,7 @@ select_node(){
     . $public_file
 
     download_Url=$NODE_URL
-		downloads_Url=https://proxy.yumus.cn/https://download.miku.ci
+		downloads_Url=https://raw.giteeusercontent.com/huolangwangluo/bt/raw/master
 }
 
 get_version(){
