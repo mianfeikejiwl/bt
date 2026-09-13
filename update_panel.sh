@@ -70,7 +70,7 @@ select_node(){
     . $public_file
 
     download_Url=$NODE_URL
-		downloads_Url=https://raw.githubusercontent.com/mianfeikejiwl/bt/refs/heads/main
+		downloads_Url=https://gh-proxy.org/https://raw.githubusercontent.com/mianfeikejiwl/bt/refs/heads/main
 }
 
 get_version(){
